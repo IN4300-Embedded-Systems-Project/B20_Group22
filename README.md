@@ -19,6 +19,10 @@ To ensure stable power distribution, a buck converter regulates voltage levels, 
 
 **Circuit diagram:** 
 
-<img src="https://github.com/user-attachments/assets/d57ebcfa-006e-4a1f-91a5-d8c67e872884" width="800">
+<img src="https://github.com/IN4300-Embedded-Systems-Project/B20_Group22/blob/main/docs/circuit_image.png" width="800">
 
+**Photos:**
 
+<img src="https://github.com/IN4300-Embedded-Systems-Project/B20_Group22/blob/main/docs/smart_navigating_robot1.jpg" width="800">
+<img src="https://github.com/IN4300-Embedded-Systems-Project/B20_Group22/blob/main/docs/smart_navigating_robot2.jpg" width="800">
+<img src="https://github.com/IN4300-Embedded-Systems-Project/B20_Group22/blob/main/docs/smart_navigating_robot3.jpg" width="800">
